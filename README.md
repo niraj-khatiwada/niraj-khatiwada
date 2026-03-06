@@ -2,22 +2,27 @@
 <tr>
 <td width="50%" align="center">
 
-### [CompressO](https://compresso.codeforreal.com/)
+### <a href="https://compresso.codeforreal.com/" target="_blank" rel="noopener noreferrer">CompressO</a>
 
 Extremely efficient video compression desktop app.
+<br />
 Available for Mac, Windows & Linux.
 
-<img src="https://github.com/user-attachments/assets/7d829bab-2ea8-42b9-8361-9cb78bc2ce73" width="450"/>
+<a href="https://compresso.codeforreal.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/7d829bab-2ea8-42b9-8361-9cb78bc2ce73" width="450"/>
+</a>
 
 </td>
 
 <td width="50%" align="center">
 
-### [Ultimate Nest.js Boilerplate](https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate)
+### <a href="https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate" target="_blank" rel="noopener noreferrer">Ultimate Nest.js Boilerplate</a>
 
-Advanced Nest.js boilerplate for scalable startups.
+Production-ready advanced Nest.js boilerplate for building scalable backends.
 
-<img src="https://github.com/user-attachments/assets/4ddd5ada-5f5b-40c2-bbac-f3d7735820e7" width="450"/>
+<a href="https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/4ddd5ada-5f5b-40c2-bbac-f3d7735820e7" width="450"/>
+</a>
 
 </td>
 </tr>
