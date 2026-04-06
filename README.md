@@ -9,7 +9,8 @@ Extremely efficient video compression desktop app.
 Available for Mac, Windows & Linux.
 
 <a href="https://compresso.codeforreal.com/">
-  <img src="https://github.com/user-attachments/assets/7d829bab-2ea8-42b9-8361-9cb78bc2ce73" width="450"/>
+  <img width="450" alt="image" src="https://github.com/user-attachments/assets/e96f0fdb-6108-4a8a-aa14-450e885f032e" />
+
 </a>
 
 </td>
