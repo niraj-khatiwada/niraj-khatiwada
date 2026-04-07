@@ -4,7 +4,7 @@
 
 ### <a href="https://compresso.codeforreal.com/" >CompressO</a>
 
-Extremely efficient video compression desktop app.
+Extremely efficient video/image compression desktop app.
 <br />
 Available for Mac, Windows & Linux.
 
