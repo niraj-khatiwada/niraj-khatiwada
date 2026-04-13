@@ -21,9 +21,22 @@ Available for Mac, Windows & Linux.
 Production-ready advanced Nest.js boilerplate for building scalable backends.
 
 <a href="https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate">
-  <img src="https://github.com/user-attachments/assets/4ddd5ada-5f5b-40c2-bbac-f3d7735820e7" width="450"/>
+  <img src="https://github.com/user-attachments/assets/aff38106-9a12-4150-84bd-6db6a5f41724" width="450"/>
 </a>
 
 </td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### <a href="https://diffy.codeforreal.com/" >Diffy</a>
+
+Advanced diff viewer to compare text files
+<br />
+
+<a href="https://diffy.codeforreal.com/">
+  <img src="https://github.com/user-attachments/assets/11943d72-47c3-4bd9-8ba1-cc45cfe557bc" width="450"/>
+</a>
+
 </tr>
 </table>
